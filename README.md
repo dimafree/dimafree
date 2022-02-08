@@ -5,7 +5,7 @@
 
 I am a Software Engineer who enjoys building anything from quick prototypes to large, sustainable systems and provide a solution to your problem.
 
-I'm well versed in mordern Javascript/Typescript technologies like React, React Native, and Redux as well as many UI frameworks/libraries such as Antd, Material UI, Bluprint JS, and Semantic UI.
+I'm well versed in mordern Javascript/Typescript technologies like React, React Native, Vue, Nuxt, and Redux as well as many UI frameworks/libraries such as Antd, Material UI, Bluprint JS, and Semantic UI.
 
 Also, I have excellent experience with Mobile application development using React Native, Expo, Styled Components and Lottie anime.
 
